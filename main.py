@@ -4,7 +4,7 @@ import sys
 import fitz  # PyMuPDF
 
 
-VERSION = "2026-06-13"
+VERSION = "v2026.06.13"
 
 
 def positive_parts(value):
